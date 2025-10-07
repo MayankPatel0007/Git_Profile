@@ -1,4 +1,4 @@
-![](![](https://github-profile-trophy.vercel.app/?username=MayankPatel0007&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4))
+![](https://media1.tenor.com/m/S-CxC0jhfrMAAAAd/qa.gif)
 
 # 💫 About Me:
 👋 Hi, I'm Mayankkumar Patel<br><br>💻 Passionate Developer | Student Innovator | Tech Explorer<br><br>🎓 I'm a student at The Maharaja Sayajirao University of Baroda, exploring the world of software, hardware, and digital forensics. I love building projects that combine creativity and real-world problem solving.<br><br>🚀 What I Do<br><br>      🤖 AI & AR Projects — Building intelligent systems like CurioSphere (Image recognition + 3D model narration using Unity & Vuforia)<br><br>      🎮 Game Development — Crafting indie multiplayer and Unity-based games<br><br>      🌐 Web Development — Building responsive, modern, and database-driven websites using HTML, CSS, JavaScript, and modern frameworks. I focus on both frontend and backend development to deliver full-stack solutions.
